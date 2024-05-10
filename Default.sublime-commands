@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Count errors",
+        "command": "run_python"
+    }
+]

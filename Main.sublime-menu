@@ -1,0 +1,12 @@
+[
+	{
+		"caption": "Utilities",
+		"id": "utilities",
+		"children": [
+			{
+				"caption": "Count errors",
+				"command": "run_python"
+			}
+		]
+	}
+]

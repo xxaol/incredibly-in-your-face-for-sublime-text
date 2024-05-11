@@ -5,6 +5,7 @@ ONLY FOR LINUX/UNIX
 ONLY WORKS WITH PYTHON, UPDATE WILL BE RELEASED SOON
 DEPENDENCIES: feh
 https://feh.finalrewind.org/
+You need to have ~/plugin/ and put your uncanny faces of mr incredible named like its written in the plugin. You can change the names in the plugin.
 
 You can modify the plugin quite simply.
 If you have ideas on how to improve this plugin I am interested
